@@ -1,0 +1,22 @@
+/home/chenwenfeng/work/android/Tasks/bin/classes.dex : \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/BuildConfig.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/R$style.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/DatastoreTaskActivity$5.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/R.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/DatastoreTaskActivity$3.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/TaskTable$Task.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/R$color.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/TaskTable.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/TaskTable$1.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/R$string.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/DatastoreTaskActivity.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/R$id.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/R$attr.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/R$layout.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/DatastoreTaskActivity$1.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/R$drawable.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/DatastoreTaskActivity$2.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/DatastoreTaskActivity$4.class \
+/home/chenwenfeng/work/android/Tasks/bin/classes/com/dropbox/sample/datastoretask/R$dimen.class \
+/home/chenwenfeng/work/android/Tasks/bin/dexedLibs/dropbox-sync-sdk-android-9e177bac825832323d5f75b79eb3eab9.jar \
+/home/chenwenfeng/work/android/Tasks/bin/dexedLibs/android-support-v4-614e3f4c3e228e9ada04732e68970069.jar \

@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:30
+-keep class com.dropbox.client2.android.AuthActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class com.dropbox.sample.datastoretask.DatastoreTaskActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.dropbox.sync.android.DbxAuthActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.dropbox.sync.android.DbxSyncService { <init>(...); }
+
